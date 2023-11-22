@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\bin\Debug\net5.0\AppCore.dll
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\bin\Debug\net5.0\ref\AppCore.dll
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\bin\Debug\net5.0\AppCore.pdb
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\obj\Debug\net5.0\AppCore.dll
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\LENOVO\source\repos\PersonelBirim\AppCore\obj\Debug\net5.0\AppCore.pdb

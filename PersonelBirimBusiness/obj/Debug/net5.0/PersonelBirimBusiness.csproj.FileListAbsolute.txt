@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\bin\Debug\net5.0\PersonelBirimBusiness.deps.json
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\bin\Debug\net5.0\PersonelBirimBusiness.dll
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\bin\Debug\net5.0\ref\PersonelBirimBusiness.dll
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\bin\Debug\net5.0\PersonelBirimBusiness.pdb
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\bin\Debug\net5.0\AppCore.dll
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\bin\Debug\net5.0\PersonelBirim.DAL.dll
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\bin\Debug\net5.0\PersonelBirim.DAL.pdb
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\bin\Debug\net5.0\AppCore.pdb
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\obj\Debug\net5.0\PersonelBirimBusiness.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\obj\Debug\net5.0\PersonelBirimBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\obj\Debug\net5.0\PersonelBirimBusiness.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\obj\Debug\net5.0\PersonelBirimBusiness.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\obj\Debug\net5.0\PersonelBirimBusiness.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\obj\Debug\net5.0\PersonelBirimBusiness.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\obj\Debug\net5.0\PersonelBirimBusiness.dll
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\obj\Debug\net5.0\ref\PersonelBirimBusiness.dll
+C:\Users\LENOVO\source\repos\PersonelBirim\PersonelBirimBusiness\obj\Debug\net5.0\PersonelBirimBusiness.pdb
